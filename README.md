@@ -17,3 +17,21 @@ IDE- software for building applications that combines common developer tools int
 VS Code Visual Studio Code- a first class editor source https://code.visualstudio.com/docs/editor/editingevolved
 
 Abstraction- the process of filtering out – ignoring - the characteristics of patterns that we don't need in order to concentrate on those that we do. source https://www.bbc.co.uk/bitesize/guides/zttrcdm/revision/1
+
+JavaScript- scripting or programming language that allows you to implement complex features on web pages
+
+Conditionals-allow us to represent such decision making 
+
+operators-symbols that are used to perform operations:
+
+variable-container for a value
+
+Assignment operator-assigns a value to its left operand based on the value of its right operand.
+
+string- for holding data that can be represented in text form
+
+string literal-the words that are in the string not what the string is called. 
+
+Number literal-a literal number in javascript.
+
+Function-fundamental building blocks, similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
