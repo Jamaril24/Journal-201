@@ -36,9 +36,9 @@ Number literal-a literal number in javascript.
 
 Function-fundamental building blocks, similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
 
-Operators- operators are constructs defined within programming languages which behave generally like functions, but which differ syntactically or semantically
+Operators- binary operators: take two values (5) with one operator(+)5555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555sssssssaaaa (5+5) urinary operater: takes one operand and 1 operator (X++, ++X)
 
-Logical Operators- A symbol or word that connects to expressions. 
+Logical Operators- A symbol or word that connects to expressions. (And&&, or||, Not!)
 
 Arithmetic Operators- operators that perform: Addition, Subtraction, Multiplication, Division,
 Exponentiation, Modulus (returned remainder of division)
