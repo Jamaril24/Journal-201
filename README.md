@@ -35,3 +35,10 @@ string literal-the words that are in the string not what the string is called.
 Number literal-a literal number in javascript.
 
 Function-fundamental building blocks, similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
+
+Operators- operators are constructs defined within programming languages which behave generally like functions, but which differ syntactically or semantically
+
+Logical Operators- A symbol or word that connects to expressions. 
+
+Arithmetic Operators- operators that perform: Addition, Subtraction, Multiplication, Division,
+Exponentiation, Modulus (returned remainder of division)
