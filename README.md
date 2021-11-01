@@ -42,3 +42,8 @@ Logical Operators- A symbol or word that connects to expressions. (And&&, or||, 
 
 Arithmetic Operators- operators that perform: Addition, Subtraction, Multiplication, Division,
 Exponentiation, Modulus (returned remainder of division)
+
+while loop- Loops can execute a block of code as long as a specified condition is true.
+
+For Loop-Loops can execute a block of code a number of times.
+
